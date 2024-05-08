@@ -1,0 +1,39 @@
+.container {
+    background: #ecf4ff;
+    color: #1c1c1c;
+    margin: 64px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px #0e1d2f;
+    padding: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container.datos{
+    margin-right: 50px;
+} 
+.container-logo{
+    margin-left: 40px;
+}
+
+th, td {
+    border:2px solid magenta;
+    padding: 10px;
+    text-align: center;
+
+  }
+
+  .top {
+
+    text-align: center;
+    font-size: 6em;
+    margin: 0;
+  }
+
+
+
+
+
+
+  
