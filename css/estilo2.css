@@ -1,0 +1,16 @@
+.container {
+    background: #C5F4FF;
+    color: #1c1c1c;
+    margin: 300px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px #0e1d2f;
+    padding: 64px;
+    text-align: center;
+    height: auto;
+}
+body{
+    background-color: #A190F5;
+}
+.conta{
+    text-align: left;
+}
